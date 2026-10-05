@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science and AI Projects**
 
-- 📫 How to reach me **dionpapadopou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
